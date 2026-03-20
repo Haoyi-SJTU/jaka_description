@@ -79,7 +79,7 @@ jaka_description/
 
 ## 许可证
 
-本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
+本项目采用 MIT 许可证，详见 [LICENSE](https://github.com/Haoyi-SJTU/jaka_description?tab=MIT-1-ov-file) 文件。
 
 # JAKA Minicobo Robot Arm URDF Model
 
@@ -159,4 +159,4 @@ jaka_description/
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Haoyi-SJTU/jaka_description?tab=MIT-1-ov-file) file for details.
